@@ -5,7 +5,7 @@ namespace ArrayProgram
     public class ReverseString
     {
         public ReverseString() {
-            /* reverse the string value using Array.Reverse */
+            Console.WriteLine("Reverse the string value using Array.Reverse");
 
             var originalString = "Hello123$%#";
             //Using Array.Reverse
@@ -17,6 +17,14 @@ namespace ArrayProgram
             //Usr LINQ
             var reverse_Linq = new string(originalString.Reverse().ToArray());
             Console.WriteLine("Using Linq Concept:-" + reverse_Linq);
+
+            Console.WriteLine("Reverse Complete Sentence Without space");
+            var originalSentence = "Welcome to the world of CSharp";
+            char[] charArray = originalSentence.ToCharArray();
+            Array.Reverse(charArray);
+            var reversedSentence = new string(charArray);
+            Console.WriteLine("Reversed Sentence:-" + reversedSentence);
+
 
         }
 
