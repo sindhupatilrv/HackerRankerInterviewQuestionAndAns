@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRankerInterviewQuesti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeProblems", "LeetCodeProblems\LeetCodeProblems.csproj", "{A493DCFF-C72E-454D-B3F8-2C72E951132A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{954CB036-D113-4377-A8FA-E8118DD37AAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A493DCFF-C72E-454D-B3F8-2C72E951132A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A493DCFF-C72E-454D-B3F8-2C72E951132A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A493DCFF-C72E-454D-B3F8-2C72E951132A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{954CB036-D113-4377-A8FA-E8118DD37AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954CB036-D113-4377-A8FA-E8118DD37AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954CB036-D113-4377-A8FA-E8118DD37AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954CB036-D113-4377-A8FA-E8118DD37AAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
