@@ -18,7 +18,7 @@
     //    int reverseNo = 0;
     //    while (originalnumber > 0)
     //    {
-    //        rem = originalnumber % 10;
+    //        rem = originalnumber % 10;    
     //        reverseNo = (reverseNo * 10) + rem;
     //        originalnumber = originalnumber / 10;
     //    }

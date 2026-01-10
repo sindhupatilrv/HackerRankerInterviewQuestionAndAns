@@ -3,11 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRankerInterviewQuestionBasic", "HackerRankerInterviewQuestionBasic\HackerRankerInterviewQuestionBasic.csproj", "{F13EC0E8-462A-44FB-9F12-75E1EECB5916}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRankerBasicQuestion", "HackerRankerInterviewQuestionBasic\HackerRankerBasicQuestion.csproj", "{F13EC0E8-462A-44FB-9F12-75E1EECB5916}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeProblems", "LeetCodeProblems\LeetCodeProblems.csproj", "{A493DCFF-C72E-454D-B3F8-2C72E951132A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{954CB036-D113-4377-A8FA-E8118DD37AAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleInterviewQuestions", "GoogleInterviewQuestions\GoogleInterviewQuestions.csproj", "{16E6E9C4-2E51-470F-9D13-D98A55BA51C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode20ValidParentheses", "LeetCode20ValidParentheses\LeetCode20ValidParentheses.csproj", "{CF11EE40-CA4C-4FDB-8C64-C369837120EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "206ReverseLinkedList", "206ReverseLinkedList\206ReverseLinkedList.csproj", "{FC592F8E-BA18-47B6-8FE9-4AB66F9DF50B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7ReverseInteger", "7ReverseInteger\7ReverseInteger.csproj", "{9B91BBF7-2FE8-4E2C-8B9E-A579515E7E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14LongestCommonPrefix", "14LongestCommonPrefix\14LongestCommonPrefix.csproj", "{B1809B88-8692-4DA7-86D3-22B39EFA4B46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +37,26 @@ Global
 		{954CB036-D113-4377-A8FA-E8118DD37AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{954CB036-D113-4377-A8FA-E8118DD37AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{954CB036-D113-4377-A8FA-E8118DD37AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16E6E9C4-2E51-470F-9D13-D98A55BA51C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E6E9C4-2E51-470F-9D13-D98A55BA51C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E6E9C4-2E51-470F-9D13-D98A55BA51C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E6E9C4-2E51-470F-9D13-D98A55BA51C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF11EE40-CA4C-4FDB-8C64-C369837120EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF11EE40-CA4C-4FDB-8C64-C369837120EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF11EE40-CA4C-4FDB-8C64-C369837120EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF11EE40-CA4C-4FDB-8C64-C369837120EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC592F8E-BA18-47B6-8FE9-4AB66F9DF50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC592F8E-BA18-47B6-8FE9-4AB66F9DF50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC592F8E-BA18-47B6-8FE9-4AB66F9DF50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC592F8E-BA18-47B6-8FE9-4AB66F9DF50B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B91BBF7-2FE8-4E2C-8B9E-A579515E7E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B91BBF7-2FE8-4E2C-8B9E-A579515E7E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B91BBF7-2FE8-4E2C-8B9E-A579515E7E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B91BBF7-2FE8-4E2C-8B9E-A579515E7E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1809B88-8692-4DA7-86D3-22B39EFA4B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1809B88-8692-4DA7-86D3-22B39EFA4B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1809B88-8692-4DA7-86D3-22B39EFA4B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1809B88-8692-4DA7-86D3-22B39EFA4B46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
